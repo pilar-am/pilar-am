@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-REPOSITORIO DE PRUEBA
+Desarrolladora de aplicaciones web en l'Institut Jaume Balmes(Barcelona).
+
+Recientemente he acabado un bootcamp De backend Java en It Academy de Barcelona Activa.
+
+
 <!--
 **pilar-am/pilar-am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
