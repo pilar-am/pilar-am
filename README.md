@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-Desarrolladora de aplicaciones web en l'Institut Jaume Balmes(Barcelona).
+Desarrolladora de aplicaciones web en l'Institut Jaume Balmes (Barcelona).
 
 Recientemente he acabado un bootcamp De backend Java en It Academy de Barcelona Activa.
 
+## Mis proyectos:
+
+<br>Practicando con microservicios<br>
+https://github.com/pilar-am/EjemploMicroservicios
 
 <!--
 **pilar-am/pilar-am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
