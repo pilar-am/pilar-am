@@ -8,12 +8,11 @@ Recientemente he acabado un bootcamp De backend Java en It Academy de Barcelona 
 
 #### Practicando con microservicios<br>
 
-https://github.com/pilar-am/EjemploMicroservicios
+https://github.com/pilar-am/EjemploMicroservicios<br>
 
+#### Juego de dados<br>
 API donde se gestiona un juego de dados, con usuarios y partidas. Base de datos relacional.<br>
-
 La seguridad se implementa con JSON Web Token.<br>
-
 La API se consume con la aplicación joc_daus_app, implementada con Angular.<br>
 
 https://github.com/pilar-am/Joc_Daus_V3
